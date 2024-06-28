@@ -1,2 +1,2 @@
-De sqlite database is te groot om te uploaden, 300+ mb. 
-Om deze te kunnen uploaden hebben we deze ingepakt als .zip, dus deze moet nog uitgepakt worden voordat er naar het jupyter notebook gekeken kan worden
+LET OP!!
+Het database.sqlite bestand was te groot om te uploaden (300+ MB), als het goed is laat het notebook in git alles direct zien. Mocht niet niet het geval zijn vergeet dan niet om het database.zip mapje uit te pakken.
